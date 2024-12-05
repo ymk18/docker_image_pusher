@@ -1,2 +1,2 @@
 # https://hub.docker.com/r/stirlingtools/stirling-pdf
-stirlingtools/stirling-pdf:0.35.0
+stirlingtools/stirling-pdf:0.35.1
